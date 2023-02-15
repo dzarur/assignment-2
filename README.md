@@ -1,4 +1,4 @@
-# Assignment 2: Fundamentals of Python
+# Assignment 2: Fundamentals of Python (30 pts)
 
 Fork the `assignment-2` repo to your personal GitHub account. Write your answers to the prompts inside of `answers.ipynb`, either in Markdown or Python cells, at your discretion. Make sure that all Python cells run without any thrown errors. 
 
